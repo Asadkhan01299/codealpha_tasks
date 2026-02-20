@@ -1,0 +1,11 @@
+--- Evaluation Metrics ---
+              precision    recall  f1-score   support
+
+           0       0.59      0.40      0.48        60
+           1       0.77      0.88      0.82       140
+
+    accuracy                           0.73       200
+   macro avg       0.68      0.64      0.65       200
+weighted avg       0.72      0.73      0.72       200
+
+ROC-AUC Score: 0.7760
