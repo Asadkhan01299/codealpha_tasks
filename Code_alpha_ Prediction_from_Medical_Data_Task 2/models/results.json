@@ -1,0 +1,56 @@
+{
+    "heart_disease": {
+        "Logistic Regression": {
+            "accuracy": 0.8688524590163934,
+            "f1_score": 0.8689934778776661
+        },
+        "SVM": {
+            "accuracy": 0.8524590163934426,
+            "f1_score": 0.8526971777874807
+        },
+        "Random Forest": {
+            "accuracy": 0.8852459016393442,
+            "f1_score": 0.8852459016393442
+        },
+        "XGBoost": {
+            "accuracy": 0.8524590163934426,
+            "f1_score": 0.8524590163934426
+        }
+    },
+    "breast_cancer": {
+        "Logistic Regression": {
+            "accuracy": 0.9649122807017544,
+            "f1_score": 0.9647247085304307
+        },
+        "SVM": {
+            "accuracy": 0.9736842105263158,
+            "f1_score": 0.9734654095556351
+        },
+        "Random Forest": {
+            "accuracy": 0.9736842105263158,
+            "f1_score": 0.9734654095556351
+        },
+        "XGBoost": {
+            "accuracy": 0.9736842105263158,
+            "f1_score": 0.9734654095556351
+        }
+    },
+    "diabetes": {
+        "Logistic Regression": {
+            "accuracy": 0.7077922077922078,
+            "f1_score": 0.7008015907537438
+        },
+        "SVM": {
+            "accuracy": 0.7402597402597403,
+            "f1_score": 0.7348651348651349
+        },
+        "Random Forest": {
+            "accuracy": 0.7792207792207793,
+            "f1_score": 0.7746353646353646
+        },
+        "XGBoost": {
+            "accuracy": 0.7597402597402597,
+            "f1_score": 0.7568387094790126
+        }
+    }
+}
